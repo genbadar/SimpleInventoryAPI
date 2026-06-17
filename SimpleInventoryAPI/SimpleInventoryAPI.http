@@ -1,0 +1,6 @@
+@SimpleInventoryAPI_HostAddress = http://localhost:5215
+
+GET {{SimpleInventoryAPI_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
